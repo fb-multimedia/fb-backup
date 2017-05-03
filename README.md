@@ -23,7 +23,7 @@ access it thrue the drupalvm dashboard
 ```
 $/var/fb-backup/./mysql-backup.sh
 ```
-	this will create a "www/mysql" directory on "fb-backup" and dump separates databases.sql.gz in it
+this will create a "www/mysql" directory on "fb-backup" and dump separates databases.sql.gz in it
 
 ### Backup(rsync) files
 * run (as administrator) **[fb-drupalvm] Backup Guest to Host.bat** on windows. it need cygwin with rsync installed to work.
